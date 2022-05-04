@@ -25,7 +25,8 @@ All correlation values all <0.03.
 ![Correlation Matrix Heatmap showing no correlation between mental health and screen time](https://github.com/phillipSloan/applied-data-science/blob/main/images/correlation-matrix-heatmap.png?raw=true)
 
 
-### Correlation Matrix Heatmap for Negatively Correlated Variables <a name="neg_correlation_matrix_heatmap"></a>
+### Correlation Matrix Heatmap for Negatively Correlated Variables
+<a href="#correlation_matrix_heatmap_for_negatively_correlated_variables"></a>
 A heatmap of the correlation matrix of the 4513 rows that have at least one diagnosis available.
 The aim with this visualisation was to try and find a negative correlation between these variables and diagnosis variables. No correlation was found, the most negative correlation found was -.031
 
