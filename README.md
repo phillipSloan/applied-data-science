@@ -24,6 +24,14 @@ All correlation values all <0.03.
 
 ![Correlation Matrix Heatmap showing no correlation between mental health and screen time](https://github.com/phillipSloan/applied-data-science/blob/main/images/correlation-matrix-heatmap.png?raw=true)
 
+### Strip Plots
+
+Strip plots of the 4513 rows that have at least one at least one not NaN diagnosis variable. 
+The rows of the plot are the different screen times features, the columns of the plot are the four different diagnosis values. 
+A value of 0 represents a NaN value other than for has_dep_diag where 0 means No and 1 means Yes. 
+The strip plot shows that there is no correlation between screen time and any of the diagnosis values.
+
+![Strip Plot](https://github.com/phillipSloan/applied-data-science/blob/main/images/strip-plot-no-nan-diag.png?raw=true)
 
 ### Correlation Matrix Heatmap for Negatively Correlated Variables
 <a href="#correlation-matrix-heatmap-for-negatively-correlated-variables"></a>
