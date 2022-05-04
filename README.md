@@ -4,7 +4,8 @@ affects their levels of depression and anxiety at age 18.
 
 # Visualisations
 
-### NaN Values in Diagnosis Variables <a name="nan-in-diag"></a>
+### NaN Values in Diagnosis Variables
+<a href="#nan-values-in-diagnosis-variables"></a>
 
 Heatmap of the four diagnosis variables: has_dep_diag, dep_score, dep_thoughts, secd_diag.
 NaN entries represented as 0 (dark) and not NaN entries represented as 1 (bright). 
