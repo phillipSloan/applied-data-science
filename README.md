@@ -26,7 +26,7 @@ All correlation values all <0.03.
 
 
 ### Correlation Matrix Heatmap for Negatively Correlated Variables
-<a href="#correlation_matrix_heatmap_for_negatively_correlated_variables"></a>
+<a href="#correlation-matrix-heatmap-for-negatively-correlated-variables"></a>
 A heatmap of the correlation matrix of the 4513 rows that have at least one diagnosis available.
 The aim with this visualisation was to try and find a negative correlation between these variables and diagnosis variables. No correlation was found, the most negative correlation found was -.031
 
