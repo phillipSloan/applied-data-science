@@ -39,5 +39,10 @@ Principal Component Analysis for all of the data. 1 (yellow) implies a diagnosis
 ![PCA for mental health and screen time](https://github.com/phillipSloan/applied-data-science/blob/main/images/PCA.png?raw=true)
 
 ### Dimensionality Reduction - UMAP
-![UMAP for mental health and screen time](https://github.com/phillipSloan/applied-data-science/blob/main/images/UMAP-50.png?raw=true)
-![UMAP for mental health and screen time](https://github.com/phillipSloan/applied-data-science/blob/main/images/UMAP-500.png?raw=true)
+Unified Manifold Approximation Projection for all the data. The first demonstrates when the parameter nneighbours is 50 and the second shows nneighbours at 500 which allows a demonstration of a local and global view of the data. Very little changes between them. Like PCA, 1 (yellow) implies a diagnosis of depression, 0 (purple) implies no diagnosis of depression.
+![UMAP for mental health and screen time nneighours 50](https://github.com/phillipSloan/applied-data-science/blob/main/images/UMAP-50.png?raw=true)
+![UMAP for mental health and screen time nneighbours 500](https://github.com/phillipSloan/applied-data-science/blob/main/images/UMAP-500.png?raw=true)
+
+### Confusion Matrix for Machine Learning Algorithms
+A single confusion matrix as despite several different models (and variations of the same model) being ran, they all created the same resultant confusion matrix.
+![Confusion Matrix](https://github.com/phillipSloan/applied-data-science/blob/main/images/Confusion%20Matrix.png?raw=true)
