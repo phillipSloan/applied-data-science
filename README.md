@@ -32,6 +32,7 @@ A value of 0 represents a NaN value other than for has_dep_diag where 0 means No
 The strip plot shows that there is no correlation between screen time and any of the diagnosis values.
 
 ![Strip Plot](https://github.com/phillipSloan/applied-data-science/blob/main/images/strip-plot-no-nan-diag.png?raw=true)
+<a href="#strip-plots-custom"></a>
 
 ### Correlation Matrix Heatmap for Negatively Correlated Variables
 <a href="#correlation-matrix-heatmap-for-negatively-correlated-variables"></a>
