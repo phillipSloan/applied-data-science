@@ -14,6 +14,7 @@ The variable with the least data is dep_thoughts, the other three diagnosis vari
 ![NaN vs not NaN entries fo diagnosis variables](https://github.com/phillipSloan/applied-data-science/blob/main/images/nan-diagnosis-heatmap.png?raw=true)
 
 ### Correlation Matrix Heatmap
+<a name="corr-matrix"></a>
 
 Heatmap of the correlation matrix of the 4513 rows that have at least one not NaN diagnosis variable. 
 It shows that none of the screen time columns are correlated with a diagnosis column.
