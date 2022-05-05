@@ -19,7 +19,9 @@ All correlation values all <0.03. Method used:
 
 ![pearson Correlation Matrix Heatmap showing no correlation between mental health and screen time](https://github.com/phillipSloan/applied-data-science/blob/main/images/correlation-matrix-heatmap.png?raw=true)
 
-Heatmap of the spearman correlation matrix.
+
+
+Heatmap of the spearman correlation matrix:
 ![Spearman Correlation Matrix Heatmap showing no correlation between mental health and screen time](https://github.com/phillipSloan/applied-data-science/blob/main/images/correlation-matrix-heatmap-spearman.png?raw=true)
 
 
